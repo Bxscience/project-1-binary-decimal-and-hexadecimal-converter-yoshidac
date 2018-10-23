@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="submit">SUBMIT</string>
+    <string name="bin">BINARY</string>
+    <string name="dec">DECIMAL</string>
+    <string name="hex">HEXADECIMAL</string>
+    <string name="edit">Input a value:</string>
+</resources>
